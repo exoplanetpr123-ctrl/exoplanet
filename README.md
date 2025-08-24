@@ -109,12 +109,5 @@ This project aims to be **an AI-powered SaaS platform** for space research, enab
 
 ----------
 
-## 🌐 **Connect with Me**
-
-📌 **GitHub**: [Rohit Pithani](https://github.com/RohitPithani026)  
-📌 **Twitter (X)**: [@rohitpithani13](https://x.com/rohitpithani13)  
-📌 **LinkedIn**: [Rohit Pithani](https://www.linkedin.com/in/rohit-pithani-855018324/)
-
-----------
 
 This **AI-powered planetary analysis platform** is a significant step toward **enhancing space exploration and exoplanet habitability predictions**! 🚀🌍✨
